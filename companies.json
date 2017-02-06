@@ -1,11 +1,22 @@
 {
   "companies": [
     {
+      "name": "Adobe Systems Inc",
+      "url": null,
+      "image": null
+    },
+    {
       "name": "AdRoll",
       "url": null,
       "image": null
-    },{
+    },
+    {
       "name": "Aeris Communications",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Affirm",
       "url": null,
       "image": null
     },
@@ -16,6 +27,11 @@
     },
     {
       "name": "AltSchool",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Ampush",
       "url": null,
       "image": null
     },
@@ -75,7 +91,22 @@
       "image": null
     },
     {
+      "name": "Brocade Communications Systems",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Bungie",
+      "url": null,
+      "image": null
+    },
+    {
       "name": "CareZone",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Casper Sleep",
       "url": null,
       "image": null
     },
@@ -85,7 +116,17 @@
       "image": null
     },
     {
+      "name": "Cavium",
+      "url": null,
+      "image": null
+    },
+    {
       "name": "Checkr",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Chegg",
       "url": null,
       "image": null
     },
@@ -96,6 +137,11 @@
     },
     {
       "name": "Citrix",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "ClassPass",
       "url": null,
       "image": null
     },
@@ -111,6 +157,11 @@
     },
     {
       "name": "Copia",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Coursera",
       "url": null,
       "image": null
     },
@@ -146,6 +197,16 @@
     },
     {
       "name": "Etsy",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "EquityZen",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Evernote",
       "url": null,
       "image": null
     },
@@ -200,6 +261,16 @@
       "image": null
     },
     {
+      "name": "Gusto",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Handy Technologies",
+      "url": null,
+      "image": null
+    },
+    {
       "name": "Harmonic",
       "url": null,
       "image": null
@@ -210,12 +281,27 @@
       "image": null
     },
     {
+      "name": "HP",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "InterActiveCorp",
+      "url": null,
+      "image": null
+    },
+    {
       "name": "Indiegogo",
       "url": null,
       "image": null
     },
     {
       "name": "Intel",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Linden Lab",
       "url": null,
       "image": null
     },
@@ -265,7 +351,17 @@
       "image": null
     },
     {
+      "name": "Managed By Q",
+      "url": null,
+      "image": null
+    },
+    {
       "name": "Mapbox",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "MobileIron",
       "url": null,
       "image": null
     },
@@ -320,7 +416,17 @@
       "image": null
     },
     {
+      "name": "New Relic",
+      "url": null,
+      "image": null
+    },
+    {
       "name": "NewsCred",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Pandora Media",
       "url": null,
       "image": null
     },
@@ -340,6 +446,11 @@
       "image": null
     },
     {
+      "name": "Planet Labs",
+      "url": null,
+      "image": null
+    },
+    {
       "name": "Quora",
       "url": null,
       "image": null
@@ -351,6 +462,11 @@
     },
     {
       "name": "Rocket Fuel",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "RPX",
       "url": null,
       "image": null
     },
@@ -370,12 +486,27 @@
       "image": null
     },
     {
+      "name": "Shift",
+      "url": null,
+      "image": null
+    },
+    {
       "name": "Shutterstock",
       "url": null,
       "image": null
     },
     {
+      "name": "Slack",
+      "url": null,
+      "image": null
+    },
+    {
       "name": "Snap",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "SpaceX",
       "url": null,
       "image": null
     },
@@ -425,7 +556,17 @@
       "image": null
     },
     {
+      "name": "Tesla",
+      "url": null,
+      "image": null
+    },
+    {
       "name": "Thumbtack",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "TripAdvisor",
       "url": null,
       "image": null
     },
@@ -446,6 +587,11 @@
     },
     {
       "name": "Uber",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Udacity",
       "url": null,
       "image": null
     },
@@ -471,6 +617,16 @@
     },
     {
       "name": "Yelp",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Zendesk",
+      "url": null,
+      "image": null
+    },
+    {
+      "name": "Zenefits",
       "url": null,
       "image": null
     },
